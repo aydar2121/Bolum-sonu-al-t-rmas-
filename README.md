@@ -1,0 +1,1 @@
+Kosluyoruz Front-End Eğtimi kapsamında Bölüm sonu alıştırması
